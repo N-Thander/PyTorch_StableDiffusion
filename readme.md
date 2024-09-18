@@ -25,5 +25,5 @@ Special thanks to the following repositories:
 5. https://github.com/hkproj/pytorch-stable-diffusion
 
 ## Sample Images
-![generatedImage1] 
-![generatedImage2]
+![generatedImage1] (img1.png)
+![generatedImage2] (img2.png)
