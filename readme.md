@@ -24,6 +24,8 @@ Special thanks to the following repositories:
 4. https://github.com/huggingface/diffusers/
 5. https://github.com/hkproj/pytorch-stable-diffusion
 
-## Sample Images
-![generatedImage1] (img1.png)
-![generatedImage2] (img2.png)
+## Screenshots
+
+![Screenshot 1](img1.png)
+
+![Screenshot 2](img2.png)
